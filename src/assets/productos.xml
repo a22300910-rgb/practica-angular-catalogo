@@ -5,9 +5,9 @@
     <id>1</id>
     <name>Audífonos</name>
     <price>599</price>
-    <imageUrl>/images/audifonos.jpg</imageUrl>
+    <imageUrl>assets/images/image.png</imageUrl>
     <category>Audio</category>
-    <description>Audífonos inalámbricos</description>
+    <description>audifonos apple</description>
     <inStock>true</inStock>
   </product>
 
@@ -15,9 +15,9 @@
     <id>2</id>
     <name>Teclado Mecánico</name>
     <price>899</price>
-    <imageUrl>/images/teclado.jpg</imageUrl>
+    <imageUrl>assets/images/image1.png</imageUrl>
     <category>Accesorios</category>
-    <description>Teclado RGB</description>
+    <description>teclado para oficina</description>
     <inStock>true</inStock>
   </product>
 
@@ -25,9 +25,9 @@
     <id>3</id>
     <name>Mouse Gamer</name>
     <price>499</price>
-    <imageUrl>/images/mouse.jpg</imageUrl>
+    <imageUrl>assets/images/image2.png</imageUrl>
     <category>Accesorios</category>
-    <description>Mouse gamer precisión alta</description>
+    <description>mouse super gamer</description>
     <inStock>false</inStock>
   </product>
 

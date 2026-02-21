@@ -2,6 +2,8 @@
   <h1>Catálogo</h1>
 </header>
 
+<p>Productos cargados: {{ productos.length }}</p>
+
 <section class="grid">
   <app-product-card
     *ngFor="let p of productos"
