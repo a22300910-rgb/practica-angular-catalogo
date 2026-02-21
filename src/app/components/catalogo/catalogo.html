@@ -1,0 +1,10 @@
+<header class="header">
+  <h1>Catálogo</h1>
+</header>
+
+<section class="grid">
+  <app-product-card
+    *ngFor="let p of productos"
+    [product]="p">
+  </app-product-card>
+</section>
